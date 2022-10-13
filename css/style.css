@@ -356,8 +356,11 @@ header {
   justify-content: space-between;
 }
 
-.feedback__item:not(:last-child) {
+.feedback__item {
   max-width: 300px;
+}
+
+.feedback__item:not(:last-child) {
   margin-right: 20px;
 }
 
