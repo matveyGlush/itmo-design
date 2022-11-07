@@ -74,8 +74,9 @@
   }
 
   .footer__list {
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 20px;
   }
 
   .footer__item:not(:last-child){
