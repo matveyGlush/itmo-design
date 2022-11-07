@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b484027-4f7b-49bd-a37d-8c280493d882" name="Changes" comment="">
+    <list default="true" id="1b484027-4f7b-49bd-a37d-8c280493d882" name="Changes" comment="fix footer list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
     </list>
@@ -40,11 +40,34 @@
       <updated>1665664724596</updated>
       <workItem from="1665664726578" duration="33000" />
       <workItem from="1667475405182" duration="1203000" />
-      <workItem from="1667839200213" duration="601000" />
+      <workItem from="1667839200213" duration="1858000" />
     </task>
+    <task id="LOCAL-00001" summary="fix footer list">
+      <created>1667839912673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667839912673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix footer list" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix footer list" />
   </component>
 </project>
